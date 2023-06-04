@@ -39,6 +39,7 @@ enum field_pallete_index
     fourspace,
     fivespace,
     sixspace,
+    sevenspace,
     eightspace,
     coveredspace,
     explodespace,
